@@ -1,6 +1,7 @@
 module.exports = {
     prefix: 'tw-',
     separator: '-',
+    darkMode: 'class',
     corePlugins: { 
        // preflight: false, 
     },
