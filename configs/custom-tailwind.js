@@ -2,7 +2,7 @@ module.exports = {
     prefix: 'tw-',
     separator: '-',
     corePlugins: { 
-        preflight: false, 
+        // preflight: false, 
     },
     theme: {
     screens: {
