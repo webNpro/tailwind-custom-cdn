@@ -1,6 +1,6 @@
 module.exports = {
     prefix: 'tw-',
-    separator: '_',
+    separator: '-',
     theme: {
     screens: {
       'xl': {'max': '1119px'},
