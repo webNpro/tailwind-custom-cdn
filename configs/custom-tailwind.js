@@ -3,7 +3,7 @@ module.exports = {
     separator: '-',
     corePlugins: { 
         preflight: false, 
-    }
+    },
     theme: {
     screens: {
         'xl': {'max': '1119px'},
