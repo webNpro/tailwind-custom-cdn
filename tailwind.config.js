@@ -1,4 +1,6 @@
 module.exports = {
+  prefix: 'tw-',
+  separator: '_',
   future: {
     // removeDeprecatedGapUtilities: true,
     // purgeLayersByDefault: true,
@@ -10,3 +12,4 @@ module.exports = {
   variants: {},
   plugins: [],
 }
+
